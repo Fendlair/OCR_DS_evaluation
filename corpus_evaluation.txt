@@ -1,0 +1,227 @@
+
+L'étudiant comprend bien ce qu'il devra faire lors de la formation. Il a des motivations claires et cohérentes.
+
+    Réponse à toutes les questions tout en restant synthétique
+
+
+Beaucoup de manipulation avancé des différents dataset ainsi que des propriétés statistiques des indicateurs a été réalisé
+
+
+Bonne utilisation de pandas pour créer le score et réaliser les analyses
+
+
+Bonne approche et bonne capacité d'analyse
+
+
+Soutenance
+
+
+
+L'étudiant a clairement défini les objectifs du nettoyage des données en lien avec la problématique métier. La démarche de préparation et de nettoyage des données a été bien expliquée, témoignant d'une compréhension solide des enjeux.
+
+
+Les analyses statistiques univariées et multivariées ont été exécutées de manière complète et précise. L'étudiant a démontré une bonne maîtrise des concepts, bien que des améliorations puissent être apportées sur les aspects statistiques plus avancés.
+
+
+Le nettoyage des données structurées a été effectué avec rigueur. L'étudiant a bien éliminé les variables non pertinentes, traité les valeurs aberrantes et manquantes, et automatisé certains traitements, montrant une maîtrise des compétences nécessaires.
+
+
+
+Les données ont été représentées de manière claire et précise à l'aide de différents types de graphiques. Les graphiques étaient lisibles et pertinents pour les analyses réalisées.
+
+
+
+- Présentation claire et logique.
+
+- Bonne maîtrise de la manipulation des données et des techniques de nettoyage.
+
+- Utilisation efficace des outils comme Matplotlib et Seaborn pour la visualisation des données.
+
+
+
+- Approfondir les connaissances et compétences dans les analyses statistiques avancées, notamment la réalisation d'analyses multivariées plus poussées.
+
+
+
+La soutenance était fluide et bien structurée. L'étudiant a démontré une bonne compréhension des sujets abordés et une maîtrise des notions présentées. Les réponses aux questions ont été précises et pertinentes. Une amélioration des compétences en analyse statistique avancée serait néanmoins bénéfique pour les projets futurs.
+
+Bravo et bonne continuation !
+
+
+
+* Identifier les variables catégorielles (qualitatives)
+
+* Feature engineering avec Encoding(BinaryEncoder) (Créer de nouvelles variables à partir de variables existantes).
+
+* Réaliser des transformations mathématiques (np.log10())
+
+
+
+* Les différentes modèles sont entrainées et évaluées;
+
+- Dummy Regressor 
+
+- Linear Regression
+- Ridge Regression
+- Lasso Regression
+- ElasticNet Regression
+
+- Support Vector Regression
+
+- Random Forest
+- Gradient Boosting
+
+* Séparer les données en train/test pour les évaluer de façon pertinente et détecter l'overfitting. 
+
+* Appliquer GridSearchCV (optimiser les hyperparamètres)
+
+* Comparer les modèles par R²
+
+* Réaliser l’analyse de l’importance des variables (feature importance) globale sur l’ensemble du jeu de données et locale (SHAP)
+
+
+
+Les notebooks sont bien structurés
+
+
+RAS (sauf "pipeline")
+
+
+* Bonne présentation orale
+
+* Il a répondu à toutes mes questions sur différentes axes.
+
+
+
+    Code de qualité 
+    Bonne maitrise de l'environnement Python avec les librairies dédiée a la manipulation des données ;
+    Support de presentation pendant la soutenance  : bonne qualité
+
+
+
+    Livrables complets 
+    Nettoyage des données pertinents
+
+    Visualisations appropriées et claires
+
+    Bonne exploration et transformation des données.
+
+    L'analyse de la stabilité est comprise.
+
+
+
+    RAS
+
+
+
+    Présentation de qualité
+    Bonne gestion du temps de parole
+
+
+
+Le candidat a bien défini sa stratégie d’élaboration d’un modèle
+Les jeux de données ont été séparés en train et test
+Plusieurs modèles ont été testé dont des modèles de RN
+
+
+
+Des métriques adaptés et bien explicités ont été choisis pour évalaluer les modèles
+Les hyperparamètre ont été optimisés
+Les modèles ont été comparés entre eux
+
+
+
+L'étudiant a présenté les opérations attendues sur le traitement d'image
+Une fonction permettant l'extraction des features sur les images est proposée
+
+Les données textuelles ont été nettoyées
+Des fonctions pour lemmatiser, stemmer et tokeniser sont créés
+Le candidat, a mis en oeuvre 3 démarches de word/sentence embedding : Word2Vec, BERT, et USE.
+
+Le candidat a écrit et testé une requête pour obtenir les données via l’API.
+Les champs attendus ont été collectés
+La collecte respecte les règles RGPD
+
+Les méthodes PCA et T-SNE ont été utilisées pour la réduction de dimension
+Une analyse des graphiques en 2D est proposée
+
+ Livrables au complets et bien réalisés. Les notebooks sont bien faits.
+ Bonne présentation du travail.
+
+
+Le pipeline d’entraînement est structuré de manière cohérente et bien documenté, ce qui facilite sa reproductibilité. L’étudiant a pris en compte les bonnes pratiques, permettant d’assurer que le pipeline soit adaptable à différents jeux de données. De plus, les étapes d'entraînement sont bien définies et permettent des itérations rapides.
+
+La stratégie de modélisation est bien définie et adaptée aux exigences du projet. L'étudiant a transformé les variables catégorielles de manière appropriée et créé de nouvelles variables pertinentes à partir des données existantes. Les décisions liées à l’élaboration du modèle sont claires et bien justifiées, ce qui montre une bonne compréhension du problème métier.
+
+L'évaluation des modèles a été effectuée en utilisant des métriques adaptées à la problématique métier, garantissant que l'évaluation reflète bien la réalité des besoins. L'étudiant a comparé différents algorithmes et optimisé les hyperparamètres avec GridSearchCV, montrant une approche rigoureuse et méthodique dans l’évaluation de la performance.
+
+Le projet est bien géré avec un logiciel de version, et un historique des modifications est clairement dRemarques sur l'évaluation
+
+Le pipeline d’entraînement est structuré de manière cohérente et bien documenté, ce qui facilite sa reproductibilité. L’étudiant a pris en compte les bonnes pratiques, permettant d’assurer que le pipeline soit adaptable à différents jeux de données. De plus, les étapes d'entraînement sont bien définies et permettent des itérations rapides.
+
+La stratégie de modélisation est bien définie et adaptée aux exigences du projet. L'étudiant a transformé les variables catégorielles de manière appropriée et créé de nouvelles variables pertinentes à partir des données existantes. Les décisions liées à l’élaboration du modèle sont claires et bien justifiées, ce qui montre une bonne compréhension du problème métier.
+
+L'évaluation des modèles a été effectuée en utilisant des métriques adaptées à la problématique métier, garantissant que l'évaluation reflète bien la réalité des besoins. L'étudiant a comparé différents algorithmes et optimisé les hyperparamètres avec GridSearchCV, montrant une approche rigoureuse et méthodique dans l’évaluation de la performance.
+
+Le projet est bien géré avec un logiciel de version, et un historique des modifications est clairement disponible. Les scripts et fonctions sont bien commentés, ce qui facilite la compréhension du code pour les autres collaborateurs. Cela montre que l’étudiant prend en compte l’importance de la gestion de version dans un environnement collaboratif.
+
+Une stratégie de suivi de la performance du modèle en production a été mise en place de manière rigoureuse, en incluant des analyses sur la dérive des données et la gestion des alertes. Les actions correctives sont bien définies en cas de baisse de performance, ce qui garantit la pérennité du modèle en production.
+
+L’étudiant a mis en place un déploiement continu d'un moteur d’inférence fonctionnel, garantissant une intégration fluide des mises à jour. Le pipeline de déploiement est structuré et fiable, assurant une réponse rapide aux requêtes de l'API en production.
+
+Le projet montre une bonne organisation et une gestion des tâches claire et rigoureuse. Le nettoyage des données, le choix des modèles et l’optimisation des hyperparamètres sont bien réalisés, et la note méthodologique est complète et détaillée. Les algorithmes de classification ont été bien comparés et sélectionnés en fonction des performances réelles, ce qui met en avant une approche scientifique.
+
+L’étudiant pourrait approfondir la notion de dérive des données (data drift) et explorer des techniques plus avancées comme Hyperopt ou Optuna pour l’optimisation des hyperparamètres. Cela permettrait d'améliorer encore l'efficacité et la robustesse des modèles sur le long terme.
+
+L’étudiant a bien respecté le temps imparti pour la soutenance, abordant tous les points essentiels de manière claire et concise. Les réponses étaient bien structurées et adaptées aux questions posées, ce qui montre une maîtrise du sujet. La présentation a été bien développée, avec une bonne mise en avant des résultats obtenus.isponible. Les scripts et fonctions sont bien commentés, ce qui facilite la compréhension du code pour les autres collaborateurs. Cela montre que l’étudiant prend en compte l’importance de la gestion de version dans un environnement collaboratif.
+
+Une stratégie de suivi de la performance du modèle en production a été mise en place de manière rigoureuse, en incluant des analyses sur la dérive des données et la gestion des alertes. Les actions correctives sont bien définies en cas de baisse de performance, ce qui garantit la pérennité du modèle en production.
+
+L’étudiant a mis en place un déploiement continu d'un moteur d’inférence fonctionnel, garantissant une intégration fluide des mises à jour. Le pipeline de déploiement est structuré et fiable, assurant une réponse rapide aux requêtes de l'API en production.
+
+Le projet montre une bonne organisation et une gestion des tâches claire et rigoureuse. Le nettoyage des données, le choix des modèles et l’optimisation des hyperparamètres sont bien réalisés, et la note méthodologique est complète et détaillée. Les algorithmes de classification ont été bien comparés et sélectionnés en fonction des performances réelles, ce qui met en avant une approche scientifique.
+
+L’étudiant pourrait approfondir la notion de dérive des données (data drift) et explorer des techniques plus avancées comme Hyperopt ou Optuna pour l’optimisation des hyperparamètres. Cela permettrait d'améliorer encore l'efficacité et la robustesse des modèles sur le long terme.
+
+L’étudiant a bien respecté le temps imparti pour la soutenance, abordant tous les points essentiels de manière claire et concise. Les réponses étaient bien structurées et adaptées aux questions posées, ce qui montre une maîtrise du sujet. La présentation a été bien développée, avec une bonne mise en avant des résultats obtenus.
+
+Le candidat a présenté sa démarche de modélisation de manière claire et accessible. Il a su expliquer la performance du modèle et l’importance des variables de façon compréhensible pour un public non technique. Il a bien répondu aux questions posées et a su justifier ses choix méthodologiques.
+
+Le candidat a réalisé une veille approfondie et pertinente, notamment sur ConvNeXt. Il a su identifier les avancées récentes et expliquer leur apport par rapport aux approches classiques. La présentation des points clés des sources était rigoureuse et bien argumentée.
+
+Il a aussi utilisé une méthode permettant de mettre en relief les décisions du modèle 
+
+Le dashboard est bien structuré, avec un parcours utilisateur simple et efficace. Il contient plusieurs graphiques interactifs et lisibles, permettant d’explorer les résultats. L’accessibilité a été prise en compte (couleurs, contrastes, redimensionnement du texte). Le déploiement sur le web a été réalisé avec succès.
+
+La note est bien rédigée, synthétique et précise. Les choix d’algorithmes, les métriques et l’interprétabilité du modèle sont clairement explicités. Les limites et axes d’amélioration sont bien identifiés.
+
+
+Bon travail 
+
+livrables globalement conformes
+
+
+    Mise en place d'un environnement de big data fonctionnel
+    identification des différentes brique de l'architecture technique
+    réalisation d'un script avec pyspark
+    prise en compte du chargement, de l'extraction des features et de la sauvegarde des résultats dans le bucket S3
+    identification des étapes critiques
+    prise en compte des éléments du RGPD avec un bukcet localisé dans l'UE
+    présentation en des termes simples du process de Mise en marche de l'environnement
+
+
+L'étudiant a su répondre à la problématique de cadrage d'un projet IA en réalisant les estimations et projection nécessaires au projet choisi. Bon travail dans l'ensemble.
+
+    a recensé les risques liés à la réalisation du projet IA et les risques liés à la gestion des données personnelles
+
+    a qualifié qualitativement et décrit les ressources humaines, techniques et financières requises pour l’ensemble du projet
+
+    a décrit le fonctionnement général du projet selon la démarche agile SCRUM
+
+
+    Bonne présentation
+
+    Faire attention au temps du sprint pour la partie Data Science
+
+
+Projet validé ! Bonne suite !
